@@ -7,7 +7,7 @@
   ],
   "gmail": {
     "name": "Resend for Gmail",
-    "logoUrl": " ",
+    "logoUrl": "https://aoma23.github.io/resend_for_gmail/icons8-gmail-48.png",
     "contextualTriggers": [{
       "unconditional": {
       },
